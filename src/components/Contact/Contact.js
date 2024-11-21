@@ -23,7 +23,7 @@ function Contact() {
 
     try {
       // Send the form data to the backend
-      const response = await axios.post("http://localhost:5000/api/submit", formData);
+      const response = await axios.post("https://app-w9rl.onrender.com/api/submit", formData);
       console.log("Server Response:", response);
 
       // Check for successful response
