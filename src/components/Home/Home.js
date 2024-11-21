@@ -10,7 +10,7 @@ function Home() {
         <Container>
           <Row className="justify-content-center align-items-center text-center">
             <Col md={8}>
-              <h1 className="heading">Hi, I'm Saloni Kanoje</h1>
+              <h1 className="heading">Cloud Computing CA2 Activity</h1>
               <p className="subheading">
                 Final Year Student at Bajaj Institute of Technology
               </p>
